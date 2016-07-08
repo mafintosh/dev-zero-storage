@@ -1,6 +1,6 @@
 {
   "name": "dev-zero-storage",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Exposes the same interface as random-access-file but instead of writing/reading data to a file it will always return a zero'ed out buffer when reading (similar to reading from /dev/zero)",
   "main": "index.js",
   "dependencies": {},
